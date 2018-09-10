@@ -1,0 +1,24 @@
+#remove php file extension-e.g. https://example.com/file.php will become https://example.com/file
+RewriteEngine on 
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+#RewriteRule ^(.*)$ $1.php [NC,L]
+RewriteRule ^index?$ index.php [NC,L]
+RewriteRule ^addPhoto?$ addPhoto.php [NC,L]
+RewriteRule ^event?$ event.php [NC,L]
+RewriteRule ^storyEntry?$ storyEntry.php [NC,L]
+RewriteRule ^gallery?$ gallery.php [NC,L]
+
+RewriteRule ^stories?$ stories.php [NC,L]
+RewriteRule ^stories/([0-9a-zA-Z_-]+) stories.php?page=$1 [NC,L]
+
+RewriteRule ^blog?$ blog.php [NC,L]
+RewriteRule ^blog/([0-9a-zA-Z:_-]+) blog.php?title=$1 [NC,L]
+
+RewriteRule ^login?$ login.php [NC,L]
+RewriteRule ^register?$ register.php [NC,L]
+RewriteRule ^userProfile?$ userProfile.php [NC,L]
+RewriteRule ^editProfile?$ editProfile.php [NC,L]
+
+#sitemap
+RewriteRule ^sitemap\.xml/?$ sitemap.php

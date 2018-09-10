@@ -1,0 +1,43 @@
+[14-Jul-2018 02:05:35 Asia/Calcutta] PHP Notice:  Undefined index: email in /home/onj1u67a04ql/public_html/admin/query/getEmail.php on line 10
+[16-Jul-2018 09:51:05 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/onj1u67a04ql/public_html/admin/db/db_connect.php on line 8
+[16-Jul-2018 15:21:05 Asia/Calcutta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/onj1u67a04ql/public_html/admin/query/loginCheck.php on line 14
+[16-Jul-2018 15:21:05 Asia/Calcutta] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/onj1u67a04ql/public_html/admin/query/loginCheck.php on line 14
+[16-Jul-2018 09:51:29 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/onj1u67a04ql/public_html/admin/db/db_connect.php on line 8
+[16-Jul-2018 15:21:29 Asia/Calcutta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/onj1u67a04ql/public_html/admin/query/loginCheck.php on line 14
+[16-Jul-2018 15:21:29 Asia/Calcutta] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/onj1u67a04ql/public_html/admin/query/loginCheck.php on line 14
+[16-Jul-2018 09:51:53 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/onj1u67a04ql/public_html/admin/db/db_connect.php on line 8
+[16-Jul-2018 15:21:53 Asia/Calcutta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/onj1u67a04ql/public_html/admin/query/loginCheck.php on line 14
+[16-Jul-2018 15:21:53 Asia/Calcutta] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/onj1u67a04ql/public_html/admin/query/loginCheck.php on line 14
+[16-Jul-2018 09:52:55 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/onj1u67a04ql/public_html/admin/db/db_connect.php on line 8
+[16-Jul-2018 15:22:55 Asia/Calcutta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/onj1u67a04ql/public_html/admin/query/loginCheck.php on line 14
+[16-Jul-2018 15:22:55 Asia/Calcutta] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/onj1u67a04ql/public_html/admin/query/loginCheck.php on line 14
+[16-Jul-2018 09:53:26 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/onj1u67a04ql/public_html/admin/db/db_connect.php on line 8
+[16-Jul-2018 15:23:26 Asia/Calcutta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/onj1u67a04ql/public_html/admin/query/loginCheck.php on line 14
+[16-Jul-2018 15:23:26 Asia/Calcutta] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/onj1u67a04ql/public_html/admin/query/loginCheck.php on line 14
+[16-Jul-2018 09:55:29 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/onj1u67a04ql/public_html/admin/db/db_connect.php on line 8
+[16-Jul-2018 15:25:29 Asia/Calcutta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/onj1u67a04ql/public_html/admin/query/loginCheck.php on line 14
+[16-Jul-2018 15:25:29 Asia/Calcutta] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/onj1u67a04ql/public_html/admin/query/loginCheck.php on line 14
+[16-Jul-2018 09:57:38 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/onj1u67a04ql/public_html/admin/db/db_connect.php on line 8
+[16-Jul-2018 15:27:38 Asia/Calcutta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/onj1u67a04ql/public_html/admin/query/loginCheck.php on line 14
+[16-Jul-2018 15:27:38 Asia/Calcutta] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/onj1u67a04ql/public_html/admin/query/loginCheck.php on line 14
+[16-Jul-2018 09:58:26 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/onj1u67a04ql/public_html/admin/db/db_connect.php on line 8
+[16-Jul-2018 15:28:26 Asia/Calcutta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/onj1u67a04ql/public_html/admin/query/loginCheck.php on line 14
+[16-Jul-2018 15:28:26 Asia/Calcutta] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/onj1u67a04ql/public_html/admin/query/loginCheck.php on line 14
+[16-Jul-2018 10:04:52 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/onj1u67a04ql/public_html/admin/db/db_connect.php on line 8
+[16-Jul-2018 15:34:52 Asia/Calcutta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/onj1u67a04ql/public_html/admin/query/loginCheck.php on line 14
+[16-Jul-2018 15:34:52 Asia/Calcutta] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/onj1u67a04ql/public_html/admin/query/loginCheck.php on line 14
+[16-Jul-2018 10:07:08 UTC] PHP Warning:  include(./db/db_connect.php): failed to open stream: No such file or directory in /home/onj1u67a04ql/public_html/admin/query/loginCheck.php on line 3
+[16-Jul-2018 10:07:08 UTC] PHP Warning:  include(): Failed opening './db/db_connect.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/onj1u67a04ql/public_html/admin/query/loginCheck.php on line 3
+[16-Jul-2018 15:37:08 Asia/Calcutta] PHP Notice:  Undefined variable: con in /home/onj1u67a04ql/public_html/admin/query/loginCheck.php on line 14
+[16-Jul-2018 15:37:08 Asia/Calcutta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/onj1u67a04ql/public_html/admin/query/loginCheck.php on line 14
+[16-Jul-2018 15:37:08 Asia/Calcutta] PHP Notice:  Undefined variable: con in /home/onj1u67a04ql/public_html/admin/query/loginCheck.php on line 14
+[16-Jul-2018 15:37:08 Asia/Calcutta] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/onj1u67a04ql/public_html/admin/query/loginCheck.php on line 14
+[16-Jul-2018 10:29:38 UTC] PHP Warning:  include(./db/db_connect.php): failed to open stream: No such file or directory in /home/onj1u67a04ql/public_html/admin/query/loginCheck.php on line 3
+[16-Jul-2018 10:29:38 UTC] PHP Warning:  include(): Failed opening './db/db_connect.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/onj1u67a04ql/public_html/admin/query/loginCheck.php on line 3
+[16-Jul-2018 15:59:38 Asia/Calcutta] PHP Notice:  Undefined variable: con in /home/onj1u67a04ql/public_html/admin/query/loginCheck.php on line 14
+[16-Jul-2018 15:59:38 Asia/Calcutta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/onj1u67a04ql/public_html/admin/query/loginCheck.php on line 14
+[16-Jul-2018 15:59:38 Asia/Calcutta] PHP Notice:  Undefined variable: con in /home/onj1u67a04ql/public_html/admin/query/loginCheck.php on line 14
+[16-Jul-2018 15:59:38 Asia/Calcutta] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/onj1u67a04ql/public_html/admin/query/loginCheck.php on line 14
+[03-Sep-2018 00:05:36 Asia/Calcutta] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home/onj1u67a04ql/public_html/dev/admin/query/verifyRegistration.php on line 47
+[03-Sep-2018 00:21:59 Asia/Calcutta] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home/onj1u67a04ql/public_html/dev/admin/query/verifyRegistration.php on line 47
+[03-Sep-2018 00:22:25 Asia/Calcutta] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home/onj1u67a04ql/public_html/dev/admin/query/verifyRegistration.php on line 47
